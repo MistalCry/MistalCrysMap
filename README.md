@@ -1,16 +1,12 @@
----
-typora-root-url: img
----
-
 # MistalCrysMap
 
 MistalCrysMap is a BepInEx / Harmony map overlay mod for **Casualties Unknown Demo**.
 
 Version / 当前版本：`1.0.1`
 
-![small](/../img/small.webp)
+![Minimap screenshot](img/small.webp)
 
-![small](/../img/big.webp)
+![Fullscreen map screenshot](img/big.webp)
 
 ## 中文
 
